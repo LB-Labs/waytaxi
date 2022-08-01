@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "waytaxi-41572",
+  "private_key_id": "d3765866694ef5ed9322515ec3993de9606b189a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQClGl8brf8AfHRI\nR6/6GvbM7C+VUdBWdSs4mkwZFI1t0Dul3/5wV8W8EHRQgvEAfEI+Gj1Yh63fkl5a\n4HJ7zYCLtzwq79eznqRyMuKrZgvcg75E1cMOfo+U9p71DVaAvLf6jiMPLF/Cyk5S\ng/P4w7YtmjCZ33y+aW3CMpYfcsGlgwQyYwk9mQxsgnyDJgsNUQkemha8KmKU94Wy\naFf/WdLm3UxQlcXGURwx/eCx242FX32sTP1CB2lm3OWTu1VL1d6vb/ySSJniBivI\nRSt2GqtQAf9b1trIGMApvVI4I1MVLujHDzH4ZQ45b57GR41uJf3K+vbPOnuHJubv\nipWnMNXvAgMBAAECggEAAvXJFL723nRcxVr7rblECYKGi9/Oo24wWzBxAtYafwiH\nuT6d2jfIpMmKvFLMrVyM934S8X5lQKfoJyr1AoE5t8eOPZrVPDQw8Jc29ym6Nrbp\n92P5vk3Ilzwgt3YIwgAgME7SFBiQkvZ7lwEko6YmowSrsGaQXv2W6S9s/51YGXaL\ngBrZI/1UrKLVDkaZeidsbj0YQXYIyEoTYVxt2vFlTZe4qyErl80gvTKKXQidZ/v0\nHMx64Io4PQjSkr00iOOJRVXEOLTUCNPm/RTTA1+LOi6ptJdhIBy7uGkkQ5VPZMUN\nNBWu0EV0SQ69G45hWvRRGsiqzVYaQ+1dhnETSBvAiQKBgQDYLTqrXMYpQyhPrjRG\nifR2KOmN7DRB+rc1XLmgha5yrzDWPJA3POaOa3lfWhfYLTOa3xP5/iqs9wwzG3nc\nXF3U+zC9DQAPe/KEJrEc1TylxzzFw5/TVcZnmd1HmCEx/uEU1tj81em4llBa0odp\nUo1ON8i6OUGTiffMcMiLj31giwKBgQDDhIl7+t2i5XvLa1n25TU6y4aYYMiJ+3QF\ngmNJJpr7WFllHdxwegITQqTYlaUcRHwKueu9GxlaVr8ijThDGbh+Szl2UkpXDkm6\nJ2SKVjvLNEKGqn9spmyG7/ynVc5/oFaMck5p3qpGDocnkIMn9OL3qzY/oqEwwHpj\nhkCu+17IrQKBgHr57+BAHLKoc6wwa6idHiaBy6ti7a+DEuoWX7sDkWPIab3WIixq\nRrZKSXeG5v2haTP3J4QVpO1UdOo1/TLwkKhyZR2G4bvtRN8Mq8C9RY0BNH9EdA1j\nRET3cLwjvO6WEjEqr7HVdun9CKVCEqpFvgD7FwNpQvbNi9wPZOaPsEFVAoGAe8KN\ndFkbql0wu1a8n7f+tbTXAeVhi1YL3uDmEAvL1oXaMFNykg/o+GAbEK3I0dfX3MJL\nImzg43o9ipVxo6fITMk5GliEjg6RRLBix95GAx6VbcDG3/OIhvGqMBH0oHzRzB0e\n3Y0Ao0/W5YhoPQaaFMPflvBOsBlmX1E/6INdQBECgYBCIJUeL7B9cUbjRhdHex5G\nGG4JkREkNIxUsAEoWI+NCKjijPJesOiQ/wob6+Ci6sjdIAiAVZfPkKoXhw2NaOnK\nJFosQtbD1ZY2W0a8RVcWaVeplaYx0ZiDtu3RkBTBXVL8AVwbPYxA9JZFnwM/4BOY\nH0J6kYX0xa5VNTtgem+z3A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-64c92@waytaxi-41572.iam.gserviceaccount.com",
+  "client_id": "100977690900109177768",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-64c92%40waytaxi-41572.iam.gserviceaccount.com"
+}
